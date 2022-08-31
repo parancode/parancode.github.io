@@ -1,6 +1,6 @@
 {
-    "name": "cxl_v3",
-    "short_name": "cxl_v3",
+    "name": "uprism_dart",
+    "short_name": "uprism_dart",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
